@@ -1,4 +1,3 @@
 # right-swiper
 
-
-![](http://imagepastry.appspot.com/serve/AMIfv94RFfnSdEhVpkpW22zcArWh0pbW8q7AW2hpa1yO-uy604JV9C4fy0-Ud4El2PRNvG3vWYsS_1ouHycJzyyTWKVeHsDFVIUDNb8KYDbv61MouwbFPM2NuwibFexmTapqGzFvURh3SMT-e5TI_S93m2AC_aMi36FDsIRUqKcS43xAjHhga5s)
+Swipes right on everyone automatically. 
