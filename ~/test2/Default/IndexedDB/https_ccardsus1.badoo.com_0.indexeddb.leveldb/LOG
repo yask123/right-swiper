@@ -1,0 +1,8 @@
+2020/11/21-19:49:27.068 b103 Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_ccardsus1.badoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/21-19:49:27.068 b103 Recovering log #4
+2020/11/21-19:49:27.068 b103 Reusing old log /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_ccardsus1.badoo.com_0.indexeddb.leveldb/000004.log 
+2020/11/21-19:49:35.574 9e07 Level-0 table #8: started
+2020/11/21-19:49:35.574 9e07 Level-0 table #8: 0 bytes OK
+2020/11/21-19:49:35.596 9e07 Delete type=0 #4
+2020/11/21-19:49:35.596 9e07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/21-19:49:35.596 9e07 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

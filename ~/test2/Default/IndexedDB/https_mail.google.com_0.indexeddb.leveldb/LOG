@@ -1,0 +1,5 @@
+2020/11/29-17:36:24.071 2612f Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-17:36:28.216 2460b Level-0 table #5: started
+2020/11/29-17:36:28.229 2460b Level-0 table #5: 1217 bytes OK
+2020/11/29-17:36:28.250 2460b Delete type=0 #3
+2020/11/29-17:36:28.251 2460b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

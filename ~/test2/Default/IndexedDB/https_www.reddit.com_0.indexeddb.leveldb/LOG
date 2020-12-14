@@ -1,0 +1,15 @@
+2020/11/29-11:33:45.940 1df43 Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-11:33:45.941 1df43 Recovering log #4
+2020/11/29-11:33:45.941 1df43 Reusing old log /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000004.log 
+2020/11/29-11:34:18.168 271bb Level-0 table #8: started
+2020/11/29-11:34:18.179 271bb Level-0 table #8: 190 bytes OK
+2020/11/29-11:34:18.196 271bb Delete type=0 #4
+2020/11/29-11:34:18.197 271bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/29-11:34:18.197 271bb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 44 : 1
+2020/11/29-11:34:18.197 271bb Compacting 1@1 + 1@2 files
+2020/11/29-11:34:18.208 271bb Generated table #9@1: 18 keys, 484 bytes
+2020/11/29-11:34:18.208 271bb Compacted 1@1 + 1@2 files => 484 bytes
+2020/11/29-11:34:18.224 271bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/29-11:34:18.225 271bb Delete type=2 #5
+2020/11/29-11:34:18.225 271bb Delete type=2 #8
+2020/11/29-11:34:18.226 271bb Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 44 : 1 .. (end); will stop at (end)

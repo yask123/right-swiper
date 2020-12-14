@@ -1,0 +1,5 @@
+2020/11/22-22:58:33.169 e017 Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_www.amazon.ca_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/22-22:58:37.531 10d03 Level-0 table #5: started
+2020/11/22-22:58:37.542 10d03 Level-0 table #5: 1331 bytes OK
+2020/11/22-22:58:37.585 10d03 Delete type=0 #3
+2020/11/22-22:58:37.585 10d03 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

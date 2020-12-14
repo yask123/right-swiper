@@ -1,0 +1,5 @@
+2020/10/26-22:21:20.500 8223 Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_web.dev_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/26-22:21:56.459 8223 Level-0 table #5: started
+2020/10/26-22:21:56.476 8223 Level-0 table #5: 4940 bytes OK
+2020/10/26-22:21:56.494 8223 Delete type=0 #3
+2020/10/26-22:21:56.497 8223 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

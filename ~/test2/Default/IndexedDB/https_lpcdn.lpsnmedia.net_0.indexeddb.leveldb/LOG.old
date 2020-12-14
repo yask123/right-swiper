@@ -1,0 +1,15 @@
+2020/11/30-00:19:54.307 24c37 Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-00:19:54.308 24c37 Recovering log #4
+2020/11/30-00:19:54.308 24c37 Reusing old log /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/000004.log 
+2020/11/30-00:20:06.763 3e103 Level-0 table #8: started
+2020/11/30-00:20:06.774 3e103 Level-0 table #8: 989 bytes OK
+2020/11/30-00:20:06.791 3e103 Delete type=0 #4
+2020/11/30-00:20:06.792 3e103 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/30-00:20:06.792 3e103 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 128 : 1
+2020/11/30-00:20:06.792 3e103 Compacting 1@1 + 1@2 files
+2020/11/30-00:20:06.804 3e103 Generated table #9@1: 22 keys, 763 bytes
+2020/11/30-00:20:06.804 3e103 Compacted 1@1 + 1@2 files => 763 bytes
+2020/11/30-00:20:06.820 3e103 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/30-00:20:06.820 3e103 Delete type=2 #5
+2020/11/30-00:20:06.821 3e103 Delete type=2 #8
+2020/11/30-00:20:06.821 3e103 Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 128 : 1 .. (end); will stop at (end)

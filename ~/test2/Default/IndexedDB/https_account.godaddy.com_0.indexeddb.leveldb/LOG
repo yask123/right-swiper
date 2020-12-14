@@ -1,0 +1,15 @@
+2020/11/30-00:20:54.821 3e103 Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_account.godaddy.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-00:20:54.821 3e103 Recovering log #11
+2020/11/30-00:20:54.821 3e103 Reusing old log /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_account.godaddy.com_0.indexeddb.leveldb/000011.log 
+2020/11/30-00:20:58.366 3fd3b Level-0 table #16: started
+2020/11/30-00:20:58.378 3fd3b Level-0 table #16: 995 bytes OK
+2020/11/30-00:20:58.396 3fd3b Delete type=0 #11
+2020/11/30-00:20:58.396 3fd3b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/30-00:20:58.396 3fd3b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 189 : 1
+2020/11/30-00:20:58.396 3fd3b Compacting 1@1 + 1@2 files
+2020/11/30-00:20:58.407 3fd3b Generated table #17@1: 21 keys, 746 bytes
+2020/11/30-00:20:58.407 3fd3b Compacted 1@1 + 1@2 files => 746 bytes
+2020/11/30-00:20:58.424 3fd3b compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/30-00:20:58.425 3fd3b Delete type=2 #16
+2020/11/30-00:20:58.425 3fd3b Delete type=2 #13
+2020/11/30-00:20:58.425 3fd3b Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 189 : 1 .. (end); will stop at (end)

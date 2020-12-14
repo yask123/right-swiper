@@ -1,0 +1,15 @@
+2020/11/30-00:20:41.162 24c37 Reusing MANIFEST /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_account.godaddy.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-00:20:41.162 24c37 Recovering log #7
+2020/11/30-00:20:41.162 24c37 Reusing old log /Users/yasksrivastava/Documents/right_swiper/~/test2/Default/IndexedDB/https_account.godaddy.com_0.indexeddb.leveldb/000007.log 
+2020/11/30-00:20:47.338 37003 Level-0 table #12: started
+2020/11/30-00:20:47.352 37003 Level-0 table #12: 998 bytes OK
+2020/11/30-00:20:47.369 37003 Delete type=0 #7
+2020/11/30-00:20:47.371 37003 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/30-00:20:47.371 37003 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 151 : 1
+2020/11/30-00:20:47.371 37003 Compacting 1@1 + 1@2 files
+2020/11/30-00:20:47.382 37003 Generated table #13@1: 21 keys, 745 bytes
+2020/11/30-00:20:47.382 37003 Compacted 1@1 + 1@2 files => 745 bytes
+2020/11/30-00:20:47.399 37003 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/30-00:20:47.399 37003 Delete type=2 #12
+2020/11/30-00:20:47.399 37003 Delete type=2 #9
+2020/11/30-00:20:47.400 37003 Manual compaction at level-1 from '\x00\x01\x01\x02\x01+\x00u\x00n\x00A\x00u\x00t\x00h\x00M\x00e\x00s\x00s\x00a\x00g\x00i\x00n\x00g\x00-\x00s\x00t\x00o\x00r\x00a\x00g\x00e\x00_\x00e\x00x\x00p\x00i\x00r\x00a\x00t\x00i\x00o\x00n\x00-\x003\x000\x001\x008\x007\x003\x003\x007' @ 151 : 1 .. (end); will stop at (end)

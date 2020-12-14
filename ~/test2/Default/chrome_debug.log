@@ -1,0 +1,5 @@
+[1123/215803.956345:INFO:CONSOLE(0)] "The Content-Security-Policy directive 'prefetch-src' is implemented behind a flag which is currently disabled.
+", source: https://bumble.com/app (0)
+[1123/215804.647959:ERROR:service_worker_storage.cc(1655)] Failed to delete the database: Database IO error
+[1123/215804.989610:ERROR:web_contents_delegate.cc(224)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[1123/215804.989808:ERROR:web_contents_delegate.cc(224)] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
